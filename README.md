@@ -15,14 +15,16 @@ goBasics
 │  ├─ customError
 │  │  └─ customError.go
 │  └─ errorWrapping
+│     ├─ commerce.go
 │     └─ errWrap.go
-└─ http
-   └─ storehttp
-      ├─ go.mod
-      ├─ go.sum
-      ├─ main.go
-      └─ proxy
-         ├─ proxy.go
-         └─ store.go
+├─ http
+│  └─ storehttp
+│     ├─ go.mod
+│     ├─ go.sum
+│     ├─ main.go
+│     └─ proxy
+│        ├─ proxy.go
+│        └─ store.go
+└─ README.md
 
 ```
