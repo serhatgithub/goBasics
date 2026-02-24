@@ -1,7 +1,6 @@
 ### Go Practice & Review
 Practical Go examples to reinforce fundamentals
 
-
 ```
 goBasics
 ├─ concurrency
@@ -12,6 +11,11 @@ goBasics
 │  └─ goroutines
 │     ├─ bankAccount.go
 │     └─ meter.go
+├─ errors
+│  ├─ customError
+│  │  └─ customError.go
+│  └─ errorWrapping
+│     └─ errWrap.go
 └─ http
    └─ storehttp
       ├─ go.mod
